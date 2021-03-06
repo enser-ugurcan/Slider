@@ -1,26 +1,26 @@
 var models=[{
     name:'cake',
-    image:'cake.png',
+    image:'pictures/cake.png',
 },
 {
     name:'circus',
-    image:'circus.png',
+    image:'pictures/circus.png',
 },
 {
     name:'game',
-    image:'game.png',
+    image:'pictures/game.png',
 },
 {
     name:'cabin',
-    image:'cabin.png'
+    image:'pictures/cabin.png'
 },
 {
     name:'submarine',
-    image:'submarine.png'
+    image:'pictures/submarine.png'
 },
 {
     name:'safe',
-    image:'safe.png'
+    image:'pictures/safe.png'
 }
 ];
 var index=0;
